@@ -3,10 +3,7 @@ a wallpaper lite is a animated wallpaper script that is made to work with gnome 
 <img width="1168" height="241" alt="ascii-art-text" src="https://github.com/user-attachments/assets/010e8a66-523a-459e-981c-c0d0e636c6c0" />
    
 
-  __  __ _  ____  ____  __   __    __      __  __ _  ____  ____  ____  _  _   ___  ____  __  __   __ _  ____ 
- (  )(  ( \/ ___)(_  _)/ _\ (  )  (  )    (  )(  ( \/ ___)(_  _)(  _ \/ )( \ / __)(_  _)(  )/  \ (  ( \/ ___)
-  )( /    /\___ \  )( /    \/ (_/\/ (_/\   )( /    /\___ \  )(   )   /) \/ (( (__   )(   )((  O )/    /\___ \
- (__)\_)__)(____/ (__)\_/\_/\____/\____/  (__)\_)__)(____/ (__) (__\_)\____/ \___) (__) (__)\__/ \_)__)(____/
+<img width="1607" height="142" alt="ascii-art-text(1)" src="https://github.com/user-attachments/assets/f1f3b7b6-d119-4e96-ac82-83a1f0a37890" />
 
  
  no.1 download the awlscreen folder from this github repo 
@@ -28,15 +25,8 @@ a wallpaper lite is a animated wallpaper script that is made to work with gnome 
  no.9 make awlscreen folder in Pictures
 
 
-$$\                                       $$\                                                   
-$$ |                                      $$ |                                                  
-$$$$$$$\   $$$$$$\  $$\  $$\  $$\       $$$$$$\    $$$$$$\        $$\   $$\  $$$$$$$\  $$$$$$\  
-$$  __$$\ $$  __$$\ $$ | $$ | $$ |      \_$$  _|  $$  __$$\       $$ |  $$ |$$  _____|$$  __$$\ 
-$$ |  $$ |$$ /  $$ |$$ | $$ | $$ |        $$ |    $$ /  $$ |      $$ |  $$ |\$$$$$$\  $$$$$$$$ |
-$$ |  $$ |$$ |  $$ |$$ | $$ | $$ |        $$ |$$\ $$ |  $$ |      $$ |  $$ | \____$$\ $$   ____|
-$$ |  $$ |\$$$$$$  |\$$$$$\$$$$  |        \$$$$  |\$$$$$$  |      \$$$$$$  |$$$$$$$  |\$$$$$$$\ 
-\__|  \__| \______/  \_____\____/          \____/  \______/        \______/ \_______/  \_______|
-                                                                                                
+<img width="707" height="170" alt="ascii-art-text(2)" src="https://github.com/user-attachments/assets/414e37c6-6dd1-42dd-85b1-56740f05a8e0" />
+
                                                                                                 
 log in to your linux distro  and it should auto start the wallpaper if it doesnt then open a wallpaper lite config to select your video file and it should do the rest
 
