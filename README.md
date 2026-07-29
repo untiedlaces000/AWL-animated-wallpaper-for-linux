@@ -56,4 +56,3 @@ log in to your linux distro  and it should auto start the wallpaper if it doesnt
 if your app shortcut isn’t working then you can go to where your awlscreen folder is located in the terminal then run ./awlscreen.sh --gui to bring up the selection window
 
                                                                                                 
-
