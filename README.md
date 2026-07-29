@@ -21,14 +21,23 @@ a wallpaper lite is a animated wallpaper script that is made to work with gnome 
   )( /    /\___ \  )( /    \/ (_/\/ (_/\   )( /    /\___ \  )(   )   /) \/ (( (__   )(   )((  O )/    /\___ \
  (__)\_)__)(____/ (__)\_/\_/\____/\____/  (__)\_)__)(____/ (__) (__\_)\____/ \___) (__) (__)\__/ \_)__)(____/
 
+ 
  no.1 download the awlscreen folder from this github repo 
+ 
  no.2 put awlscreen folder in home folder
+ 
  no.3 run cd ~/awlscreen/    in terminal
+ 
  no.4 run chmod +x awl*.desktop in terminal
+ 
  no.5 run chmod +x awlscreen.sh in terminal
+ 
  no.6 put awlarestart in /.config/autostart/  (may be different based on distro and DE)
+ 
  no.7 put awlautostart in /.config/autostart/  (may be different based on distro and DE)
+ 
  no.8 put awlc in /.local/share/applications  (may be different based on distro and DE)
+ 
  no.9 make awlscreen folder in Pictures
 
 
