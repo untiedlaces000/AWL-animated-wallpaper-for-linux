@@ -18,7 +18,7 @@ no.2 extract the folder
 
 no.3
  ```shell
-cd Downloads && cd "a wallpaper lite v2" && cd awlscreen
+cd Downloads && cd "a-wallpaper-lite-v2" && cd awlscreen
  ```
 
 this command puts you into the install folder
