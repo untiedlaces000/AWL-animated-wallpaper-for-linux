@@ -5,6 +5,33 @@ a wallpaper lite is a animated wallpaper script that is made to work with gnome 
 
 <img width="1607" height="142" alt="ascii-art-text(1)" src="https://github.com/user-attachments/assets/f1f3b7b6-d119-4e96-ac82-83a1f0a37890" />
 
+There are two ways to install awl there is the auto install(only for version 2 and up) and there is the manual install route if you cant use the auto install
+ 
+<img width="182" height="72" alt="ascii-art-text(1)12" src="https://github.com/user-attachments/assets/a25077d0-9f6d-4684-80cb-edf2bccc32a0" />
+
+ONLY FOR VERSION 2 AND UP IF YOU GOT A OLDER VERSION THEN USE THE MANUAL INSTALL INSTRUCTIONS 
+ these are terminal commands
+
+no.1 download awl from the releases page 
+
+no.2 extract the folder 
+
+no.3
+ ```shell
+cd Downloads && cd "a wallpaper lite v1" && cd awlscreen
+ ```
+
+this command puts you into the install folder
+
+no.4
+ ```shell
+sudo sh ./autoinstall.sh
+ ``` 
+ this runs the install script
+ 
+ 
+ <img width="484" height="128" alt="ascii-art-text" src="https://github.com/user-attachments/assets/79765005-a4cd-43d8-9ee2-5c416c03c449" />
+
  
  no.1 download the awlscreen folder from this github repo 
  
@@ -21,8 +48,10 @@ a wallpaper lite is a animated wallpaper script that is made to work with gnome 
  no.7 put awlautostart in /.config/autostart/  (may be different based on distro and DE)
  
  no.8 put awlc in /.local/share/applications  (may be different based on distro and DE)
+
+ no.9 put awlc in /.local/share/applications  (may be different based on distro and DE)
  
- no.9 make awlscreen folder in Pictures
+ no.10 make a-wallpaper-lite folder in Pictures
 
 
 <img width="707" height="170" alt="ascii-art-text(2)" src="https://github.com/user-attachments/assets/414e37c6-6dd1-42dd-85b1-56740f05a8e0" />
