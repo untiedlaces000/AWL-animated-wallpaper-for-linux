@@ -1,0 +1,21 @@
+dependencys:
+zenity ffmpeg mpv xwinwrap
+
+install instructions: 
+put awlscreen folder in home folder
+run cd ~/awlscreen/    in terminal
+run chmod +x awl*.desktop in terminal
+run chmod +x awlscreen.sh in terminal
+put awlarestart in /.config/autostart/  (may be different based on distro and DE)
+put awlautostart in /.config/autostart/  (may be different based on distro and DE)
+put awlc in /.local/share/applications  (may be different based on distro and DE)
+put awlstop in /.local/share/applications  (may be different based on distro and DE)
+make a-wallpaper-lite folder in Pictures
+
+
+
+
+Debug instructions:
+if launchers dont start or the program doesnt start on startup then
+try replacing $USER with your linux accounts username in 
+"Exec=/home/$USER/awlscreen/awlscreen.sh --gui" in all of the launchers (awlc , awlautostart , awlarestart) 
