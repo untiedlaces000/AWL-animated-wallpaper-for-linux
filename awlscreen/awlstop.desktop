@@ -1,8 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Type=Application
-Name=AWL stop
-Exec=sh -c 'pkill -f xwinwrap; pkill -f "awlscreen.sh --daemon"'
-Icon=preferences-desktop-wallpaper
-Terminal=false
-Categories=Utility;Settings;
