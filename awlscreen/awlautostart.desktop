@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Exec=/home/$USER/awlscreen/awlscreen.sh
-Hidden=false
-NoDisplay=false
-X-GNOME-Autostart-enabled=true
-Name=AWL start
