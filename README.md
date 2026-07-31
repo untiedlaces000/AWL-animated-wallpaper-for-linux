@@ -16,14 +16,16 @@ no.1 download awl from the releases page
 
 no.2 extract the folder 
 
-no.3
+no.3 move the awlscreen folder in a wallpaper lite in your home folder
+
+no.4
  ```shell
-cd ~/Downloads/a-wallpaper-lite-v*/awlscreen
+cd ~/awlscreen
  ```
 
 this command puts you into the install folder
 
-no.4
+no.5
  ```shell
 sudo sh ./autoinstall.sh
  ``` 
