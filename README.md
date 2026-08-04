@@ -4,7 +4,9 @@ a wallpaper lite is a animated wallpaper script that is made to work with gnome 
 
 
 cinnamon (x11),
-gnome (x11)
+gnome (x11),
+kde plasma (x11),
+labwc (awl wayland version)
 
 <img width="1168" height="241" alt="ascii-art-text" src="https://github.com/user-attachments/assets/010e8a66-523a-459e-981c-c0d0e636c6c0" />
    
