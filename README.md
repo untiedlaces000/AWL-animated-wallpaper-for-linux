@@ -17,23 +17,36 @@ There are two ways to install awl there is the auto install(only for version 2 a
  
 <img width="182" height="72" alt="ascii-art-text(1)12" src="https://github.com/user-attachments/assets/a25077d0-9f6d-4684-80cb-edf2bccc32a0" />
 
-ONLY FOR VERSION 2 AND UP IF YOU GOT A OLDER VERSION THEN USE THE MANUAL INSTALL INSTRUCTIONS 
+ONLY FOR VERSION 3 AND UP IF YOU GOT A OLDER VERSION THEN USE THE MANUAL INSTALL INSTRUCTIONS 
  these are terminal commands
 
 no.1 download awl from the releases page 
 
 no.2 extract the folder 
 
-no.3 move the awlscreen folder in a wallpaper lite in your home folder
+no.3 move the a-wallpaper-lite folder in a-wallpaper-lite-*.zip in your home folder
 
 no.4
  ```shell
-cd ~/awlscreen
+cd ~/a-wallpaper-lite/x11/
+ ```
+
+OR (if your using wayland)
+
+ ```shell
+cd ~/a-wallpaper-lite/wayland/
  ```
 
 this command puts you into the install folder
 
 no.5
+
+  ```shell
+chmod +x autoinstall.sh
+ ```
+
+no.6
+ 
  ```shell
 sudo sh ./autoinstall.sh
  ``` 
@@ -63,6 +76,7 @@ sudo sh ./autoinstall.sh
  
  no.10 make a-wallpaper-lite folder in Pictures
 
+ no.11 install all of the dependencies 
 
 <img width="707" height="170" alt="ascii-art-text(2)" src="https://github.com/user-attachments/assets/414e37c6-6dd1-42dd-85b1-56740f05a8e0" />
 
