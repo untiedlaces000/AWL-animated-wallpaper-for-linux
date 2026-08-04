@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=AWL config
+Exec=sh -c '"$HOME/awlscreen/awlscreen.sh" --gui'
+Icon=preferences-desktop-wallpaper
+Terminal=false
+Categories=Utility;Settings;

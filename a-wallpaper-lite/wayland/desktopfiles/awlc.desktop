@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=AWL config
+Exec=sh -c '"$HOME/a-wallpaper-lite/wayland/awlscreenwayland.sh" --gui'
+Icon=preferences-desktop-wallpaper
+Terminal=false
+Categories=Utility;Settings;
