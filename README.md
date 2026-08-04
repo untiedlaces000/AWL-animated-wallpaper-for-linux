@@ -1,11 +1,11 @@
-a wallpaper lite is a animated wallpaper script that is made to work with gnome that doesn’t leak ram or crash your system
+a wallpaper lite is a animated wallpaper script that is made to work with gnome x11 and works with other de's that doesn’t leak ram or crash your system
 
 <img width="198" height="70" alt="ascii-art-text" src="https://github.com/user-attachments/assets/54b742f3-a1ee-4c03-bdd9-0a242c526a57" />
 
 
-cinnamon (x11),
-gnome (x11),
-kde plasma (x11 with bugs),
+cinnamon (x11, wayland does not work),
+gnome (x11, wayland does not work),
+kde plasma (x11 and wayland with bugs),
 labwc (awl wayland version)
 
 <img width="1168" height="241" alt="ascii-art-text" src="https://github.com/user-attachments/assets/010e8a66-523a-459e-981c-c0d0e636c6c0" />
